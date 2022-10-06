@@ -1,4 +1,5 @@
-# flightSchedule
+# flightScheduleQueryTool
+
 This web application allows a user to search for flights and display the results in a tabular view.
 
 Backend API is written in node.js with express server. Code resides in server folder.
