@@ -22,8 +22,9 @@ It is alive on http://localhost:5000
 
 
 
-Open another terminal and install following packages (Only first time)
-You need to install following packages 
+Open another terminal and install following packages (You need to install Only first time)
+
+
 
   cd client
   
