@@ -9,6 +9,9 @@ In order to start the server to respond to API calls:
   npm run dev
   
 Make sure you have node and express installed via npm install express and npm install node
+Also, we are using cvs to html package so install it as follows.
+cd server 
+npm install csv-filter-sort
 
 Data stored in csv files under "Data" folder.
 
