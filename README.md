@@ -5,6 +5,7 @@ Backend API is written in node.js with express server. Code resides in server fo
 In order to start the server to respond to API calls: 
 
   cd server
+  
   npm run dev
   
 Make sure you have node and express installed via npm install express and npm install node
@@ -23,12 +24,16 @@ Open another terminal and install following packages (Only first time)
 You need to install following packages 
 
   cd client
+  
   npm install react-csv-to-table
+  
   npm install  react-select
+  
 
 start UI via 
 
   npm start 
+  
 
 which will open application in a browser at http://localhost:3000
 
