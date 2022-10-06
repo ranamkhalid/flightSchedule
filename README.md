@@ -43,6 +43,7 @@ which will open application in a browser at http://localhost:3000
 To check APIs use following URLs:
 
 http://localhost:5000/originairportlist/ (To get a list of all airports from Origin/Name columns)
+
 http://localhost:5000/destinationairportlist/ (To get a list of all airports from Destination/Name columns)
 
 http://localhost:5000/flights/FRA/SEA  (To get a flight schedule of all flights originated from FRA OR ended at SEA)
