@@ -1,0 +1,456 @@
+SDR,Santander
+FRA,Frankfurt/main
+OMA,Eppley
+YQQ,Comox
+CPH,Kastrup
+CZM,Cozumel Intl
+PVR,Lic Gustavo Diaz Ordaz Intl
+ATH,Eleftherios Venizelos Intl
+YUL,Montreal/pierre-elliott-trudea
+IND,Indianapolis Intl
+BDL,Bradley International
+SEA,Seattle-tacoma Intl
+SSG,Malabo
+ATL,Hartsfield - Jackson Atlanta I
+GIG,Canavieiras
+CLT,Charlotte/douglas Intl
+BOS,Logan Intl
+MDW,Chicago Midway Intl
+PHX,Phoenix Sky Harbor Intl
+PHL,Philadelphia Intl
+CAG,Elmas Mil
+EYW,Key West Intl
+HDN,Yampa Valley
+DFW,Dallas-ft Worth Intl
+SJD,Los Cabos Intl
+DCA,Ronald Reagan Washington Natl
+SJU,Luis Munoz Marin Intl
+IAD,Washington Dulles Intl
+LHR,Heathrow
+MIA,Miami Intl
+LIR,Daniel Oduber Quiros Intl
+HUX,Bahias De Huatulco Intl
+SWO,Unknown airport with code DSS
+LAX,Los Angeles Intl
+COS,City Of Colorado Springs Mun
+PBI,Palm Beach Intl
+PIE,International
+CUN,Cancun Intl
+DAY,Cox-dayton Intl
+MBJ,Sangster Intl
+EGE,Eagle Co Regl
+JIB,Unknown airport with code DSS
+CDG,Charles-de-gaulle
+DSM,Des Moines Intl
+SKB,Bradshaw Intl
+FKL,Venango Regl
+LGW,Gatwick
+FIH,N'djili Intl
+POP,Gregorio Luperon Intl
+ICT,Wichita Mid-continent
+TMS,Sao Tome International
+ORD,Chicago-o'hare Intl
+MUC,Munich
+CMF,Unknown airport with code DSS
+LIS,Lisbon
+YHZ,Stanfield Intl
+ADD,Bole Intl
+MYR,Myrtle Beach Intl
+LGA,La Guardia
+JAN,Jackson-evers Intl
+MFR,Rogue Valley Intl-medford
+PSP,Palm Springs Intl
+BHM,Birmingham-shuttlesworth Intl
+CVG,Cincinnati/northern Ky Intl
+PAP,Toussaint Louverture Intl
+PIT,Pittsburgh Intl
+JFK,Kennedy Intl
+MAD,Barajas
+SXM,Princess Juliana Intl
+PVC,Provincetown
+DUS,Dusseldorf
+SBA,Santa Barbara Mun
+RZE,Jasionka
+MCI,Kansas City Intl
+AMS,Schiphol
+AGP,Malaga
+AUG,Augusta State
+DAR,Julius Nyerere Intl
+YYZ,Toronto/pearson Intl
+TPA,Tampa Intl
+BJL,Banjul Intl
+MEX,Lic Benito Juarez Intl
+GNV,Gainesville Regl
+TLV,Ben Gurion
+PUJ,Punta Cana Intl
+BTV,Burlington Intl
+TYS,Mc Ghee Tyson
+UVF,Hewanorra Intl
+CLO,Alfonso Bonilla Aragon Intl
+PLS,Providenciales Intl
+LAS,Mc Carran Intl
+BWI,Baltimore/Washington Intl
+SJO,Juan Santamaria Intl
+SBP,San Luis Obispo Co Regl
+GCK,Garden City Regl
+VPS,Eglin Afb
+CLE,Cleveland-hopkins Intl
+GSP,Greenville-spartanburg Intl-ro
+DTW,Detroit Metro Wayne Co
+PTY,Tocumen Intl
+TLS,Blagnac
+MSP,Minneapolis/St. Paul Intl
+MEM,Memphis Intl
+RMU,Unknown airport with code DSS
+YOW,Ottawa/macdonald-cartier Intl
+HOU,Hobby
+SFO,San Francisco Intl
+SAP,Ramon Villeda Morales Intl
+EBB,Entebbe Intl
+SAL,El Salvador Intl
+NAS,Lynden Pindling Intl
+MSY,Armstrong New Orleans Intl
+FLL,Ft Lauderdale-hollywood Intl
+ZRH,Zurich
+FEZ,Saiss Intl
+GND,Maurice Bishop Intl
+MCO,Orlando Intl
+MGA,Augusto Cesar Sandino Intl
+ECP,NW Florida Beaches International
+DEN,Denver Intl
+TLH,Tallahassee Regl
+IAH,George Bush Intercontinental/h
+FAT,Fresno Yosemite Intl
+BJX,De Guanajuato Intl
+HSV,Huntsville Intl-jones
+KRK,Balice
+ZBF,Bathurst
+ACK,Nantucket Meml
+FCO,Fiumicino
+GRR,Gerald R. Ford Intl
+NBO,Jomo Kenyatta
+HNL,Honolulu Intl
+EDI,Edinburgh
+ZCL,Gen Leobardo C Ruiz Intl
+BRU,Brussels National
+MLB,Melbourne Intl
+MDE,Jose Maria Cordova
+GRU,Guarulhos-gov. Andre Franco Mo
+STX,Henry E Rohlsen
+GPT,Gulfport-biloxi Intl
+AZA,Phoenix-mesa Gateway
+FSM,Ft Smith Regl
+ALB,Albany Intl
+BTR,Baton Rouge Metro-ryan
+CRW,Yeager
+SFB,Orlando Sanford
+GDL,Don Miguel Hidalgo Intl
+PTP,Le Raizet
+CMH,Port Columbus Intl
+EZE,Ezeiza Intl Ministro Pistarini
+KEF,Keflavik
+HAM,Hamburg
+BGY,Orio Al Serio
+CGN,Cologne-bonn
+XNA,Northwest Arkansas Regl
+SLC,Salt Lake City Intl
+MSO,Missoula Intl
+MDT,Harrisburg Intl
+BGI,Grantley Adams Intl
+EWR,Newark Liberty Intl
+STT,King
+QRO,Queretaro Intl
+MOB,Mobile Regl
+ELP,El Paso Intl
+SAN,San Diego Intl
+RIX,Riga Intl
+AUA,Reina Beatrix Intl
+ZLO,Playa De Oro Intl
+GUA,La Aurora Intl
+GLA,Glasgow
+LEB,Lebanon Mun
+SLK,Adirondack Regl
+HPN,Westchester Co
+AUS,Austin-bergstrom Intl
+ACC,Kotoka Intl
+PHF,Newport News/williamsburg Intl
+YEG,Edmonton Intl
+BOG,Eldorado Intl
+RKD,Knox Co Regl
+RNO,Reno/tahoe Intl
+DJE,Zarzis
+ALG,Houari Boumediene
+CUZ,Tnte Fap Alejandro Velazco Ast
+SAV,Savannah/hilton Head Intl
+BOI,Boise Air Terminal/gowen
+SUX,Sioux Gateway/col. Bud Day Fie
+CHS,Charleston Afb/intl
+CUR,Willemstad/hato Intl.
+BON,Flamingo
+JNB,O.r. Tambo Intl
+CAN,Baiyun
+YHM,Hamilton
+OAK,Metro Oakland Intl
+CAI,Cairo Intl
+SYR,Syracuse Hancock Intl
+COU,Columbia Regl
+LIT,Adams
+ILM,Wilmington Intl
+MWA,Williamson Co Regl
+SRQ,Sarasota-bradenton Intl
+CHO,Charlottesville-albemarle
+YYC,Calgary Intl
+RUT,Rutland - Southern Vermont Reg
+AOO,Altoona-blair Co
+ORH,Worcester Regl
+MZT,Gen Rafael Buelna Intl
+EIS,TERRANCE B LETTSOME INTL
+ELH,North Eleuthera
+YVR,Vancouver Intl
+MRS,Marseille/provence
+SDQ,Las Americas Intl
+NVA,Benito Salas
+PDX,Portland Intl
+FDF,Aime Cesaire
+LOS,Murtala Muhammed
+GCM,Roberts Intl
+MCZ,Zumbi Dos Palmares Intl
+OTP,Henri Coanda
+IGR,Cataratas
+CCS,Simon Bolivar Intl
+STL,Lambert-st Louis Intl
+DAB,Daytona Beach Intl
+HAV,Jose Marti Intl
+YGL,La Grande Riviere
+KOA,Kona Intl At Keahole
+BNA,Nashville Intl
+LFW,Tokoin
+BUF,Buffalo Niagara Intl
+DSS,Unknown airport with code DSS
+OGS,Ogdensburg Intl
+RIC,Richmond Intl
+RSW,Southwest Florida Intl
+SLW,Plan De Guadalupe Intl
+MGW,Morgantown Mun-hart
+JAC,Jackson Hole
+VRA,Juan G. Gomez Intl
+MLI,Quad-city Intl.
+MGM,Montgomery Regl
+MVY,Martha's Vineyard
+RDU,Raleigh-durham Intl
+ANU,V C Bird Intl
+CMN,Mohammed V Intl
+DUJ,Dubois Regl
+CTG,Rafael Nunez
+MKE,Gen Mitchell Intl
+YGW,Kuujjuarapik
+POS,Piarco Intl
+SBN,South Bend Regl
+DAL,Dallas Love
+BZN,Gallatin
+MSN,Dane Co Regl-truax
+PNS,Pensacola Regl
+MFE,Mc Allen Miller Intl
+ABE,Lehigh Valley Intl
+YYT,St John's Intl
+TUS,Tucson Intl
+HEL,Vantaa
+CID,The Eastern Iowa Airport
+GSO,Piedmont Triad Intl
+BSB,Pres Juscelino Kubitschek Intl
+SJC,Mineta San Jose Intl
+WAW,Okecie
+EMA,East Midlands
+BLA,Gen. Jose Antonio Anzoategui I
+AGS,Augusta Regl At Bush
+OGG,Kahului
+HRL,Valley Intl
+MHT,Manchester
+PGD,Charlotte Co
+CLL,Easterwood
+OKC,Will Rogers World
+MCE,Merced Rgnl/macready
+MDZ,El Plumerillo
+COR,Ing Aer A L V Taravella
+ABV,Nnamdi Azikiwe Intl
+DEC,Decatur
+ATW,Outagamie Co Regl
+LEX,Blue Grass
+GJT,Grand Junction Regl
+LBV,Leon M'ba
+ORF,Norfolk Intl
+SNA,John Wayne-orange Co
+CMW,Ignacio Agramonte Intl
+SWF,Stewart
+AVP,Wilkes-barre-scranton Intl
+VVC,Vanguardia
+OUA,Ouagadougou
+YXE,Saskatoon/diefenbaker Intl
+UIB,Unknown airport with code DSS
+YWG,Richardson Intl
+VQS,Vieques
+PBM,J.a. Pengel Intl
+LAD,4th Of February
+SLA,Gen Martin M de Guemes
+LIH,Lihue
+FNT,Bishop Intl
+ASE,Aspen-pitkin Co/sardy
+ZIH,Ixtapa-zihuatanejo Intl
+ANC,Stevens Anchorage Intl
+MAF,Midland Intl
+CRP,Corpus Christi Intl
+MTJ,Montrose Regl
+TUC,Benjamin Matienzo
+PXM,Puerto Escondido Intl
+AMA,Rick Husband Amarillo Intl
+LBB,Lubbock Preston Smith Intl
+EWN,Coastal Carolina Regl
+ROC,Greater Rochester Intl
+SHV,Shreveport Regl
+PRG,Ruzyne
+SIN,Changi
+ROS,Islas Malvinas
+MDQ,Astor Piazzolla
+NSI,Nsimalen
+PGV,Pitt-greenville
+OAJ,Ellis
+LWB,Greenbrier Valley
+COO,Cadjehoun Intl
+JAX,Jacksonville Intl
+ROA,Roanoke Regl/woodrum
+OXB,Osvaldo Vieira
+NIM,Diori Hamani
+DLA,Douala
+MTY,Gen Mariano Escobedo Intl
+TBN,Unknown airport with code DSS
+DGO,Durango Intl
+FAR,Hector Intl
+SNU,Abel Santamaria
+BZE,Philip S W Goldson Intl
+FLO,Florence Regl
+SDF,Louisville Intl-standiford
+ERI,Erie Intl
+LRM,Casa De Campo Intl
+BKO,Senou
+FAY,Fayetteville Regl/grannis
+BGR,Bangor Intl
+ESC,Delta Co
+VCT,Victoria Regl
+LIM,Jorge Chavez Intl
+ABJ,Felix Houphouet-boigny
+FOR,Pinto Martins Intl
+CKY,Gbessia
+FSD,Foss
+FTE,El Calafate
+FLN,Hercilio Luz Intl
+YZR,Sarnia (hadfield)
+CJS,Abraham Gonzalez Intl
+MHH,Marsh Harbour Intl
+UIO,Mariscal Sucre Intl
+IGU,Cataratas Intl
+EYP,El Yopal
+GGT,Exuma Intl
+JDO,Orlando Bezerra De Menezes
+YYR,Unknown airport with code DSS
+MLM,Gen Francisco J Mujica Intl
+MVD,Carrasco Intl/gen C L Berisso
+SCE,University Park
+STI,Cibao Intl
+FPO,Grand Bahama Intl
+POA,Salgado Filho Intl
+LTO,Loreto Intl
+CEZ,Cortez Mun
+PQM,Unknown airport with code DSS
+MRY,Monterey Peninsula
+TIJ,Gen Abelardo L Rodriguez Intl
+TUL,Tulsa Intl
+CUU,Gen Div P A Roberto Fierro Vil
+PBC,Hermanos Serdan Intl
+SGF,Springfield-branson Natl
+RAP,Rapid City Regl
+YXU,London
+SCL,Arturo Merino Benitez Intl
+CAK,Akron-canton Regl
+YUM,International
+PDT,Eastern Oreg Regl At Pendleton
+SAT,San Antonio Intl
+PVD,Green State
+BPS,Porto Seguro
+AZS,El Catey Intl
+ROW,Roswell Intl Air Center
+TGZ,Angel Albino Corzo
+FWA,Ft Wayne Intl
+SAF,Santa Fe Mun
+SYD,Kingsford Smith Intl
+LGB,Long Beach/daugherty Field
+VVI,Viru Viru Intl
+ICN,Incheon Intl
+PIA,Greater Peoria Regl
+HOG,Frank Pais Intl
+MNL,Ninoy Aquino Intl
+BEL,Val De Cans Intl
+LMM,Valle Del Fuerte International
+STS,Charles M Schulz - Sonoma Co
+SSA,Dep. L. E. Magalhaes Intl
+REC,Guararapes - Gilberto Freyre
+HMO,Gen Ignacio Pesqueira Garcia
+OAX,Xoxocotlan Intl
+BFL,Meadows
+GRK,Gray Aaf
+PVG,PuDong
+BUR,Bob Hope
+CKB,North Central West Virginia
+YQR,Regina Intl
+MHK,Manhattan Regl
+PEK,Beijing Capital
+ONT,Ontario Intl
+SMF,Sacramento Intl
+HND,Tokyo (haneda) Intl
+ITO,Hilo Intl
+NRT,Narita Intl
+MXP,Malpensa
+NGO,Chubu Centrair International
+PPT,Faaa
+STR,Stuttgart
+FUK,Fukuoka
+DUB,Dublin Intl
+BCN,Barcelona
+LFT,Lafayette Regional
+KIX,Kansai Intl
+CAE,Columnbia Metro
+CHA,Lovell
+FCA,Glacier Park Intl
+AVL,Asheville Regl
+POB,Unknown airport with code DSS
+TRI,Tri-cities Regl Tn/va
+BIL,Billings Logan Intl
+KIN,Norman Manley Intl
+ABQ,Albuquerque Intl Sunport
+GEG,Spokane Intl
+BDA,L F Wade Intl
+VQQ,Unknown airport with code DSS
+BIF,Unknown airport with code DSS
+TGU,Toncontin Intl
+PTK,Oakland Co Intl
+TUP,Tupelo Regl
+NDR,El Aroui Intl
+LAW,Lawton-ft Sill Regl
+VCE,Tessera
+TFS,Reina Sofia
+LCA,Larnaca Intl
+TNG,Ibn Batouta Intl
+MAR,La Chinita Intl
+PUU,3 De Mayo
+HTS,Tri-state/ferguson
+TRC,Torreon Intl
+MAZ,Eugenio Maria De Hostos
+AMM,Queen Alia Intl
+MSL,Northwest Alabama Regl
+RSD,Rock Sound Intl
+RTB,Juan Manuel Galvez Intl
+BZV,Unknown airport with code DSS
+GEO,Cheddi Jagan Intl
+TCB,Treasure Cay
+ELM,Elmira/corning Regl
+HOT,Memorial
+RDM,Roberts
