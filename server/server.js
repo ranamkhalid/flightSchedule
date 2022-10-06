@@ -85,7 +85,7 @@ app.get('/destinationairportlist/', (req,res) => {
 	      destinationAirports.push(newObj);
 	    });
 
-	res.status(200).send(destinationAirports)
+	res.status(200).send(listOfAirports)
 
 })
 
