@@ -3,10 +3,11 @@ import { CsvToHtmlTable } from 'react-csv-to-table';
 import Select from 'react-select'
 import OriginAirports from './origin.js';
 import DestinationAirports from './destination.js';
+import FetchData from './fetchData.js';
+import './App.css';
 
 export default function App() {
 
-  
 const [data, setData] = useState(null);
 const [origin, setOrigin] = useState(null);
 const [destination, setDestination] = useState(null);
@@ -42,53 +43,8 @@ function handleDestinationChange(event) {
       .catch((error) => {
         console.error("Error fetching data: ", error);
         setError(error);
-      })
-      .finally(() => {
-        //setLoading(false);
       });
-
  }
-
-fetch("/originairportlist/")
-  .then((response) => {
-    if (response.ok) {
-      return response.text();
-    }
-    throw response;
-  })
-  .then((data) => {
-    setOriginairportlist(data);
-  })
-  .catch((error) => {
-    console.error("Error fetching data: ", error);
-  })
-  .finally(() => {
-    //setLoading(false);
-  });
-
-
-fetch("/destinationairportlist/")
-  .then((response) => {
-    if (response.ok) {
-      return response.text();
-    }
-    throw response;
-  })
-  .then((data) => {
-    setDestinationairportlist(data);
-  })
-  .catch((error) => {
-    console.error("Error fetching data: ", error);
-  })
-  .finally(() => {
-    //setLoading(false);
-  });
-
-const options = [
-  { value: 'chocolate', label: 'Chocolate' },
-  { value: 'strawberry', label: 'Strawberry' },
-  { value: 'vanilla', label: 'Vanilla' }
-]
 
 
   if (error) return "Error Fetching Data!. Please make sure backend API is running and try again.";
@@ -98,13 +54,13 @@ const options = [
     <div>
      <table>
        <tr>
-         <td>
+         <td align="right">
           <label>Origin</label>
          </td>
          <td width="300px;"> 
               <Select name="Origin"  onChange={handleOriginChange} options={OriginAirports} />
          </td>
-         <td> 
+         <td align="right"> 
            <label>Destination</label>
          </td>
          <td width="300px;"> 
