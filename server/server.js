@@ -54,20 +54,20 @@ app.get('/flights/:origin/:destination', (req,res) => {
 app.get('/originairportlist/', (req,res) => {
 
 	const fs = require('fs')
-	var listOfAirports = fs.readFileSync('../data/originairports.csv').toString().split("\n");
+	var listOfAirports = fs.readFileSync('../data/originairports.csv').toString(); //.split("\n");
 	//var result = array.filter(function (el) {
 	//		return el.indexOf(id.origin) >= 0; 
 	//});
-	  var originAirports = [];
+	//  var originAirports = [];
   
-	    listOfAirports.forEach((item) => {
-		  const newObj = {};
-	      newObj.value = item;
-	      newObj.label = item;
-	      originAirports.push(newObj);
-	    });
+	//    listOfAirports.forEach((item) => {
+	//	  const newObj = {};
+	//      newObj.value = item;
+	//      newObj.label = item;
+	//      originAirports.push(newObj);
+	//    });
 
-	res.status(200).send(originAirports)
+	res.status(200).send(listOfAirports)
 
 })
 
@@ -75,16 +75,8 @@ app.get('/originairportlist/', (req,res) => {
 app.get('/destinationairportlist/', (req,res) => {
 
 	const fs = require('fs')
-	var listOfAirports = fs.readFileSync('../data/destinationairports.csv').toString().split("\n");
-	  var destinationAirports = [];
+	var listOfAirports = fs.readFileSync('../data/destinationairports.csv').toString();
   
-	    listOfAirports.forEach((item) => {
-		  const newObj = {};
-	      newObj.value = item;
-	      newObj.label = item;
-	      destinationAirports.push(newObj);
-	    });
-
 	res.status(200).send(listOfAirports)
 
 })
