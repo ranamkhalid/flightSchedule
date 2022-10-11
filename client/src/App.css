@@ -12,7 +12,7 @@ thead th:nth-child(1) {
 }
 
 thead th:nth-child(2) {
-  width: 5%;
+  width: 0%;
 }
 
 thead th:nth-child(3) {
@@ -20,17 +20,17 @@ thead th:nth-child(3) {
 }
 
 thead th:nth-child(4) {
-  width: 5%;
+  width: 10%;
 }
 
 thead th:nth-child(5) {
   width: 5%;
 }
 thead th:nth-child(6) {
-  width: 5%;
+  width: 6%;
 }
 thead th:nth-child(7) {
-  width: 9%;
+  width: 6%;
 }
 thead th:nth-child(8) {
   width: 9%;
@@ -61,6 +61,17 @@ thead th:nth-child(15) {
 
 
 td {
-  padding: 1px;;
+  padding: 5px;;
   border: 1px solid black;
+}
+
+button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
 }
