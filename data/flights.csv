@@ -1,4 +1,4 @@
-id,created_at,updated_at,flight_identifier,flt_num,scheduled_origin_gate,scheduled_destination_gate,out_gmt,in_gmt,off_gmt,on_gmt,destination,origin,destination_full_name,origin_full_name
+id,created,updated,flight_identifier,flt_num,Origin_gate,Dest_gate,out_gmt,in_gmt,off_gmt,on_gmt,destination,origin,destination_name,origin_name
 291480,2019-09-19 20:36:44,2019-09-19 20:36:44,b4131042-7935-486f-bbaa-131819a5b356,2594,1,Any,2019-02-09 19:51:46,2019-02-09 21:16:09,2019-02-09 19:58:59,2019-02-09 21:10:45,AGP,SDR,Malaga,Santander
 291479,2019-09-19 20:36:44,2019-09-19 20:36:44,b3f2f131-eb4f-47d1-a58e-a72757cd9b75,8,B25,Any,2019-02-09 19:57:55,2019-02-10 01:22:36,2019-02-09 20:14:23,2019-02-10 01:18:33,AUH,FRA,Abu Dhabi Intl,Frankfurt/main
 291482,2019-09-19 20:36:44,2019-09-19 20:36:44,c53186ca-dd05-4d4d-bb14-cb3e4eea96d3,1606,A2,C37,2019-02-09 20:01:58,2019-02-09 22:00:00,2019-02-09 20:13:51,2019-02-09 21:54:19,ATL,OMA,Hartsfield - Jackson Atlanta I,Eppley
